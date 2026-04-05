@@ -8,8 +8,8 @@ import emailjs from '@emailjs/browser';
 // ─── EmailJS config ───────────────────────────────────────────────────────────
 // Replace these three values after you create your EmailJS account (see SETUP.md)
 const EMAILJS_SERVICE_ID  = 'service_1e75dzb';   // ← your Service ID 
-const EMAILJS_TEMPLATE_ID = 'template_sb4w1it';  // ← your Template ID 
-const EMAILJS_PUBLIC_KEY  = 'ubI3ei8NZugwAT9Zd'; // ← your Public Key
+const EMAILJS_TEMPLATE_ID = 'template_fod4wd3';  // ← your Template ID 
+const EMAILJS_PUBLIC_KEY  = 'k-i8x2jThvXQTy7pe'; // ← your Public Key
 
 // ─── WhatsApp number (with country code, no + or spaces) ─────────────────────
 const ADMIN_WHATSAPP = '918446692426';
